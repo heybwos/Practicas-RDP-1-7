@@ -1,0 +1,13 @@
+# Salidas generadas por los scripts de cada practica (no deben versionarse)
+capturas/
+logs/
+
+# Cache y entornos de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archivos del sistema operativo / editor
+.DS_Store
+Thumbs.db
